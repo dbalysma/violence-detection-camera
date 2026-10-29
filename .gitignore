@@ -1,0 +1,38 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+# Datasets, model weights and potentially sensitive visual assets
+/data/
+/datasets/
+/weights/
+/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.h5
+*.npy
+*.npz
+# Training outputs and experiment logs
+/runs/
+/outputs/
+/wandb/
+/lightning_logs/
+# Do not commit recordings or raw video
+*.mp4
+*.avi
+*.mov
+*.mkv
+# Exception: a short, licence-safe demo clip may be committed here once approved
+!docs/demo/*.mp4
+
+# New evaluation reruns should not mix with the dissertation's archived results.
+results/**/*_rerun.csv

@@ -1,0 +1,8 @@
+# Derived from the imports in the original MSc code (versions not recorded at the time; to be pinned)
+torch
+torchvision
+opencv-python
+scikit-learn
+pandas
+numpy
+matplotlib

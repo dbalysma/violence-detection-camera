@@ -1,0 +1,13 @@
+# Reference versions installed and smoke-tested on Linux CPU, Python 3.13.16 in GitHub Actions.
+# First verified 27 Oct 2026; .github/workflows/reference-cpu-environment.yml re-checks it on every change.
+# This is a prospective portfolio setup, NOT the version history of the Aug 2026 dissertation.
+# It pins direct requirements, not every transitive dependency or a CUDA runtime.
+# Install a matching torch/torchvision build for your hardware from pytorch.org first.
+torch==2.10.0
+torchvision==0.25.0
+opencv-python==4.13.0.92
+scikit-learn==1.8.0
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+scipy==1.17.0

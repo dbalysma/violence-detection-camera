@@ -1,0 +1,5 @@
+evaluation,videos,tp,tn,fp,fn,accuracy_pct,precision_pct,recall_pct,f1_pct,source
+"Classifier, RWF-2000 validation",400,168,158,42,32,81.50,80.00,84.00,81.95,dissertation-reported metrics; counts derived from them
+"Full pipeline, RWF-2000 validation",400,107,174,26,93,70.25,80.45,53.50,64.26,recomputed from rwf_400_results.csv
+"Full pipeline, UCF-Crime subset (no retraining)",200,71,80,20,29,75.50,78.02,71.00,74.35,recomputed from ucf_200_results_tidy.csv
+"Full pipeline, XD-Violence subset (no retraining)",284,115,48,94,27,57.39,55.02,80.99,65.53,recomputed from xd_284_results_tidy.csv
