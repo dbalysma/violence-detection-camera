@@ -16,7 +16,7 @@ publishing the documents. Only dates that have been checked are listed.
 | 11 – 18 Aug 2026 | Evaluation | Batch evaluation on RWF-2000 and a first webcam test (11 Aug), the controlled live-webcam demo (from 12 Aug), then the UCF-Crime and XD-Violence evaluations (18 Aug). | File last-modified dates; timestamps inside the result files; dated photos taken during the work |
 | 28 – 31 Aug 2026 | Final write-up | Final dissertation revisions, figures and document preparation. The result figures and the final version of `gemma_utils.py` date from 31 Aug. | Dated document revisions; figure file dates |
 | 2 Sep 2026 | Viva | MSc viva. | Viva presentation |
-| Oct 2026 | Clean-up and release preparation | Post-submission portfolio preparation (portability fixes, tests, documentation) and private preparation for a possible public release, carried out by AI tools (Claude, ChatGPT, Codex) from the author's original work and instructions. The author reviewed and approved each change. A public release date will be added only once a release happens. | This repository's history |
+| Oct 2026 | Clean-up and public release | Post-submission portfolio preparation (portability fixes, tests, documentation) and preparation of the curated public release, carried out by AI tools (Claude, ChatGPT, Codex) from the author's original work and instructions. The author reviewed and approved each change. The curated public repository was released on 30 October 2026. | This repository's history |
 
 File timestamps and document revision dates are supporting evidence, not proof. Taken together,
 they are consistent with one another and with the Git commit.
